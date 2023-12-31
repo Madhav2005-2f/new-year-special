@@ -103,10 +103,16 @@ canvas {
 /* relevant portion */
 
 .text .img a {
+  
   color: white;
   position: absolute;
   text-align: center;
-  top: 160%;
+  top: 120%;
+  left:20%;
+  right:20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .text .msg a {
   color: white;
