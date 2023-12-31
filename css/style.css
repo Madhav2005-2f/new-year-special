@@ -118,5 +118,10 @@ canvas {
   color: white;
   position: absolute;
   text-align: center;
-  top: 178%;
+  top: 140%;
+  left:20%;
+  right:20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
