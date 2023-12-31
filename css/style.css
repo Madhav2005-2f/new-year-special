@@ -22,6 +22,9 @@ canvas {
 .text h1{
   font-size: 4em;
 }
+.text p{
+  font-size: 2.5em;
+}
 #textt {
   color: rgba(243, 150, 10, 0.678);
 }
