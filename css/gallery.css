@@ -13,7 +13,7 @@ body {
   background: linear-gradient(to bottom, #1d45b3 0%, #761a63 75%, #e6612c 100%);
   padding: 20px;
 }
-.text h1,h2,
+.text h1,h2,h4,
 h3 a {
   text-align: center;
   color: #ffffff;
@@ -90,6 +90,9 @@ h3 a {
 }
 .container .card:nth-of-type(8)::before {
   filter: url(#wavy3);
+}
+.container .card:nth-of-type(8)::before {
+  filter: url(#wavy2);
 }
 
 .image1 {
