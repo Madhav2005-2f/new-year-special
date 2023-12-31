@@ -105,13 +105,12 @@ canvas {
 .text .img a {
   color: white;
   position: absolute;
+  text-align: center;
   top: 160%;
 }
 .text .msg a {
   color: white;
   position: absolute;
+  text-align: center;
   top: 178%;
-}
-.text p {
-  font-size: 16px;
 }
