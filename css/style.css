@@ -8,36 +8,7 @@ canvas {
   cursor: crosshair;
   display: block;
 }
-/* CSS for larger screens */
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
 
-.gasy-content {
-  padding: 20px;
-}
-
-/* CSS for mobile screens */
-@media only screen and (max-width: 600px) {
-  
-
-  .gasy-content {
-    padding: 10px;
-  }
-
-  .text h1 {
-    font-size: 24px;
-  }
-
-  .text p {
-    font-size: 18px;
-  }
-
-  .img, .msg {
-    margin-top: 20px;
-  }
-}
 .text {
   color: white;
   position: absolute;
